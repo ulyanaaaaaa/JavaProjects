@@ -1,6 +1,6 @@
 package org.example;
 
-class ReportBuilder {
+public class ReportBuilder {
     private StringBuilder report = new StringBuilder();
 
     public ReportBuilder addSection(String title, String content) {
