@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banks>
+    <bank>
+        <name>Bank 1</name>
+        <category>Category A</category>
+        <price>512000</price>
+        <quantity>100</quantity>
+    </bank>
+    <bank>
+        <name>Bank 2</name>
+        <category>Category B</category>
+        <price>112800</price>
+        <quantity>200</quantity>
+    </bank>
+    <bank>
+        <name>Bank 3</name>
+        <category>Category C</category>
+        <price>652000</price>
+        <quantity>300</quantity>
+    </bank>
+</banks>
